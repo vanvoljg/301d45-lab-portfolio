@@ -6,6 +6,16 @@ Estimate of time needed to complete: 2 hours
 
 Start time: 10:45 (late start, computer was broken)
 
-Finish time: _____
+Finish time: 11:55
 
-Actual time needed to complete: _____
+Actual time needed to complete: 70 min
+
+# Feature 2 - Content updates
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
