@@ -239,7 +239,7 @@ br.clear {
 
 /* Container */
 
-.container {
+/* .container {
   margin: 0 auto;
   max-width: 100%;
   width: 1400px;
@@ -273,11 +273,11 @@ br.clear {
   .container {
     width: 100%;
   }
-}
+} */
 
 /* Row */
 
-.row {
+/* .row {
   display: flex;
   flex-wrap: wrap;
   box-sizing: border-box;
@@ -1731,7 +1731,7 @@ br.clear {
   .row.gtr-200.gtr-uniform > * {
     padding-top: 40px;
   }
-}
+} */
 
 /* Sections/Article */
 
